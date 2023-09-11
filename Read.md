@@ -1,5 +1,5 @@
 #read me
 
-and add some colr
+and add some fight
 
 include<stdio></stdio>
